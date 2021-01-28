@@ -1,0 +1,2048 @@
+fileFormatVersion: 2
+guid: 6b8a79f0fa3b4464998d8a206a11787e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5812275240951979099
+    second: bang_0
+  - first:
+      213: 1386432173152844570
+    second: bang_1
+  - first:
+      213: 2578299810766124534
+    second: bang_2
+  - first:
+      213: -5469649156635429242
+    second: bang_3
+  - first:
+      213: -615699886978168077
+    second: bang_4
+  - first:
+      213: 8024406203773216703
+    second: bang_5
+  - first:
+      213: -5173385532912971144
+    second: bang_6
+  - first:
+      213: -6503683276809592019
+    second: bang_7
+  - first:
+      213: -7969376004170134173
+    second: bang_8
+  - first:
+      213: -2229488344916895561
+    second: bang_9
+  - first:
+      213: 991295853956442661
+    second: bang_10
+  - first:
+      213: 4090653517604290255
+    second: bang_11
+  - first:
+      213: -3667483277001166260
+    second: bang_12
+  - first:
+      213: -617694464590456322
+    second: bang_13
+  - first:
+      213: -4860972191019865244
+    second: bang_14
+  - first:
+      213: 8551813810262058384
+    second: bang_15
+  - first:
+      213: -8319422672432902669
+    second: bang_16
+  - first:
+      213: -6588635723622422947
+    second: bang_17
+  - first:
+      213: 3221277665438582401
+    second: bang_18
+  - first:
+      213: -7778082155970543863
+    second: bang_19
+  - first:
+      213: 6040519891262796888
+    second: bang_20
+  - first:
+      213: -4370566196955109663
+    second: bang_21
+  - first:
+      213: -913166092583842999
+    second: bang_22
+  - first:
+      213: 5884708452566075443
+    second: bang_23
+  - first:
+      213: -8267902327817724861
+    second: bang_24
+  - first:
+      213: -5360382278411332804
+    second: bang_25
+  - first:
+      213: 7742696633296791940
+    second: bang_26
+  - first:
+      213: -2822480423771993022
+    second: bang_27
+  - first:
+      213: 4245707606304749898
+    second: bang_28
+  - first:
+      213: -7556798213591479359
+    second: bang_29
+  - first:
+      213: 5967104894265183705
+    second: bang_30
+  - first:
+      213: 3279784046030094894
+    second: bang_31
+  - first:
+      213: -8586632215259043166
+    second: bang_32
+  - first:
+      213: 8625967462103005790
+    second: bang_33
+  - first:
+      213: 2042733293002733473
+    second: bang_34
+  - first:
+      213: 5341899388619678490
+    second: bang_35
+  - first:
+      213: -3112664703719544136
+    second: bang_36
+  - first:
+      213: 8615723859040543891
+    second: bang_37
+  - first:
+      213: 6812473153494992545
+    second: bang_38
+  - first:
+      213: 7789739112258087139
+    second: bang_39
+  - first:
+      213: 6510475174526432975
+    second: bang_40
+  - first:
+      213: -1395225091945966815
+    second: bang_41
+  - first:
+      213: 4193874699892907491
+    second: bang_42
+  - first:
+      213: 549775171528189735
+    second: bang_43
+  - first:
+      213: -6442043926828419863
+    second: bang_44
+  - first:
+      213: -4764925534379255270
+    second: bang_45
+  - first:
+      213: 8914914286301258152
+    second: bang_46
+  - first:
+      213: 2626032357810272260
+    second: bang_47
+  - first:
+      213: -5866189061530348397
+    second: bang_48
+  - first:
+      213: 2228905944745625143
+    second: bang_49
+  - first:
+      213: -8297461348634807222
+    second: bang_50
+  - first:
+      213: 3456251833416675489
+    second: bang_51
+  - first:
+      213: -8848695880085194768
+    second: bang_52
+  - first:
+      213: 6207532214579873044
+    second: bang_53
+  - first:
+      213: -7111081650728722532
+    second: bang_54
+  - first:
+      213: -404553832228041418
+    second: bang_55
+  - first:
+      213: -226861147773597440
+    second: bang_56
+  - first:
+      213: 3770121344280899368
+    second: bang_57
+  - first:
+      213: -228136675093053697
+    second: bang_58
+  - first:
+      213: -8169066951464943583
+    second: bang_59
+  - first:
+      213: -6888752775335793911
+    second: bang_60
+  - first:
+      213: -8426615403992593932
+    second: bang_61
+  - first:
+      213: -5661587735594683214
+    second: bang_62
+  - first:
+      213: -5675048228980231561
+    second: bang_63
+  - first:
+      213: 6402235146190708860
+    second: bang_64
+  - first:
+      213: 2689781836877243472
+    second: bang_65
+  - first:
+      213: 6286553997430750854
+    second: bang_66
+  - first:
+      213: -667396853108607817
+    second: bang_67
+  - first:
+      213: -5908163503243239147
+    second: bang_68
+  - first:
+      213: 4377406151246212814
+    second: bang_69
+  - first:
+      213: 3177087874355259443
+    second: bang_70
+  - first:
+      213: -1123699748379633582
+    second: bang_71
+  - first:
+      213: 3686253972431241534
+    second: bang_72
+  - first:
+      213: -6718963386368059995
+    second: bang_73
+  - first:
+      213: 3223254020146462438
+    second: bang_74
+  - first:
+      213: 3370483594003005039
+    second: bang_75
+  - first:
+      213: 2168622343532115357
+    second: bang_76
+  - first:
+      213: 8445728664678717321
+    second: bang_77
+  - first:
+      213: 4796245257409280496
+    second: bang_78
+  - first:
+      213: 1790853287371881557
+    second: bang_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bang_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1327
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3624e8676a65fa0800000000000000
+      internalID: -5812275240951979099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1326
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bb2f147b89d3310800000000000000
+      internalID: 1386432173152844570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1325
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fb297406f7c320800000000000000
+      internalID: 2578299810766124534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1325
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686fabc4217e714b0800000000000000
+      internalID: -5469649156635429242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1325
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0b6407389477f0800000000000000
+      internalID: -615699886978168077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_5
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1325
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e75d5dea6c5f60800000000000000
+      internalID: 8024406203773216703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_6
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1325
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d39084417438b0800000000000000
+      internalID: -5173385532912971144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_7
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1324
+        width: 171
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23ad1a84864eb5a0800000000000000
+      internalID: -6503683276809592019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1055
+        width: 201
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dcaed6fb6176190800000000000000
+      internalID: -7969376004170134173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1052
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8da52a9244f01e0800000000000000
+      internalID: -2229488344916895561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1049
+        width: 213
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a246ab35ac1cd00800000000000000
+      internalID: 991295853956442661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1046
+        width: 218
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce710873bbe4c830800000000000000
+      internalID: 4090653517604290255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1044
+        width: 223
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f8a6046b7a1dc0800000000000000
+      internalID: -3667483277001166260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_13
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1042
+        width: 227
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95c5a38228d67f0800000000000000
+      internalID: -617694464590456322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_14
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1257
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b653bfb8b5a8cb0800000000000000
+      internalID: -4860972191019865244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1063
+        width: 184
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09523f9d9552ea670800000000000000
+      internalID: 8551813810262058384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1058
+        width: 192
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4e4958297b8c80800000000000000
+      internalID: -8319422672432902669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 784
+        width: 231
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56690ba7b67094a0800000000000000
+      internalID: -6588635723622422947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1000
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186cd5b38f644bc20800000000000000
+      internalID: 3221277665438582401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 782
+        width: 233
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f329b3d73be0490800000000000000
+      internalID: -7778082155970543863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_20
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 781
+        width: 235
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854766946dc34d350800000000000000
+      internalID: 6040519891262796888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_21
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 780
+        width: 237
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6292b3331a853c0800000000000000
+      internalID: -4370566196955109663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_22
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 779
+        width: 238
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bcb96e648c353f0800000000000000
+      internalID: -913166092583842999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_23
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 778
+        width: 239
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33880f9b82faaa150800000000000000
+      internalID: 5884708452566075443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_24
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 778
+        width: 240
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9cc853a2824d80800000000000000
+      internalID: -8267902327817724861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_25
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 777
+        width: 240
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335ef2e7b81c95b0800000000000000
+      internalID: -5360382278411332804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 520
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a44fb095937b60800000000000000
+      internalID: 7742696633296791940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_27
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 520
+        width: 244
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c839b320984d8d0800000000000000
+      internalID: -2822480423771993022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_28
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 519
+        width: 244
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f7fdb298cbea30800000000000000
+      internalID: 4245707606304749898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 519
+        width: 246
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc297ff0cd02790800000000000000
+      internalID: -7556798213591479359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_30
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 518
+        width: 247
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddcb28494a6fc250800000000000000
+      internalID: 5967104894265183705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_31
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 517
+        width: 252
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e220e9b7632248d20800000000000000
+      internalID: 3279784046030094894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_32
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 517
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa2f808e7726d880800000000000000
+      internalID: -8586632215259043166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_33
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 516
+        width: 254
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a3ab654b795b770800000000000000
+      internalID: 8625967462103005790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 255
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ba4c6b1f395c10800000000000000
+      internalID: 2042733293002733473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 259
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136d8cf03d322a40800000000000000
+      internalID: 5341899388619678490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 259
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba66ed81f79dc4d0800000000000000
+      internalID: -3112664703719544136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 259
+        width: 252
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39428f4a333319770800000000000000
+      internalID: 8615723859040543891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_38
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 427
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a644f33d34ca8e50800000000000000
+      internalID: 6812473153494992545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 260
+        width: 253
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e82c176376ba1c60800000000000000
+      internalID: 7789739112258087139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 268
+        width: 253
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b5a06daad95a50800000000000000
+      internalID: 6510475174526432975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_41
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 268
+        width: 245
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12359dccb2a23ace0800000000000000
+      internalID: -1395225091945966815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_42
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 269
+        width: 231
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5d97c1d2a33a30800000000000000
+      internalID: 4193874699892907491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 19
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727644d0b9131a700800000000000000
+      internalID: 549775171528189735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 22
+        width: 222
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4fde11e234996a0800000000000000
+      internalID: -6442043926828419863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 23
+        width: 217
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad22ed8759fddb0800000000000000
+      internalID: -4764925534379255270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 30
+        width: 196
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1aa066f4328bb70800000000000000
+      internalID: 8914914286301258152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_47
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 199
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40876ff148a817420800000000000000
+      internalID: 2626032357810272260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_48
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 34
+        width: 190
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949332012c179ea0800000000000000
+      internalID: -5866189061530348397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_49
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 200
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736c152c52aaeee10800000000000000
+      internalID: 2228905944745625143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_50
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 37
+        width: 191
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b6118dde79dc80800000000000000
+      internalID: -8297461348634807222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_51
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 201
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f7110bb217ff20800000000000000
+      internalID: 3456251833416675489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_52
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 146
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f73f0ebafd133580800000000000000
+      internalID: -8848695880085194768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_53
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 203
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c3d509a5952650800000000000000
+      internalID: 6207532214579873044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_54
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 190
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f148f2aec505d90800000000000000
+      internalID: -7111081650728722532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 183
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d4689de6cb26af0800000000000000
+      internalID: -404553832228041418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_56
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 189
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090e91fcf60adcf0800000000000000
+      internalID: -226861147773597440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_57
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 184
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f2bfd3369225430800000000000000
+      internalID: 3770121344280899368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_58
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef6d817ee75dcf0800000000000000
+      internalID: -228136675093053697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_59
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 146
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208c83a3e4a1ae80800000000000000
+      internalID: -8169066951464943583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_60
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 156
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90baf9859db3660a0800000000000000
+      internalID: -6888752775335793911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_61
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 183
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9cf2aafe5ae0b80800000000000000
+      internalID: -8426615403992593932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_62
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 151
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4bb2b63fffd61b0800000000000000
+      internalID: -5661587735594683214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_63
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 142
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727c6414bd2e31b0800000000000000
+      internalID: -5675048228980231561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_64
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 93
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e739e1fe49d850800000000000000
+      internalID: 6402235146190708860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_65
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 145
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ad5e5456045520800000000000000
+      internalID: 2689781836877243472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_66
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efb269d835e3750800000000000000
+      internalID: 6286553997430750854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_67
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 68
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b47f3e191eecb6f0800000000000000
+      internalID: -667396853108607817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_68
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 82
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511624ab89cf10ea0800000000000000
+      internalID: -5908163503243239147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_69
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 122
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee3aab3bbafbc30800000000000000
+      internalID: 4377406151246212814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_70
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 120
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338652bb698471c20800000000000000
+      internalID: 3177087874355259443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_71
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 105
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d2af4801d760f0800000000000000
+      internalID: -1123699748379633582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_72
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 115
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3103a21574382330800000000000000
+      internalID: 3686253972431241534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_73
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 93
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51da0166271c2a0800000000000000
+      internalID: -6718963386368059995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_74
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 96
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eefdab247c4bbc20800000000000000
+      internalID: 3223254020146462438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_75
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb4dd98fc56ce20800000000000000
+      internalID: 3370483594003005039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_76
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 81
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95f436188e781e10800000000000000
+      internalID: 2168622343532115357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_77
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 38
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987528f1971453570800000000000000
+      internalID: 8445728664678717321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_78
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 74
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9388766afaf8240800000000000000
+      internalID: 4796245257409280496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang_79
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 45
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c34a693936ad810800000000000000
+      internalID: 1790853287371881557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
